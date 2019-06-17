@@ -1,0 +1,5 @@
+name: AntiBadChat
+main: com.github.qianniancc.AntiBadChat
+version: 1.0
+commands:
+  abc:
